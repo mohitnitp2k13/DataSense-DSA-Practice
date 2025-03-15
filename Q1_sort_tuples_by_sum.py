@@ -1,5 +1,5 @@
 # Question 1: Sort Tuples by Sum of Elements
-# Title: Sort Tuples by Sum
+# Title: Sort Tuples by Sum.
 
 # Description:
 # You are given a list of tuples, where each tuple contains exactly two integers. Sort this list in ascending order based on the sum of the integers in each tuple.
